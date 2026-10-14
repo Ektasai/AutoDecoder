@@ -1,4 +1,4 @@
-# PPAD: Poisson Process AutoDecoder
+# AutoDecoder
 
 🚧 **Work in progress.** This project is still under development.
 
